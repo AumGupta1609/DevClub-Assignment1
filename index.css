@@ -1,0 +1,134 @@
+
+
+*{
+    text-align: center;
+    font-family: 'Open-sans';
+}
+a{
+    font-size: 25;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.hea{
+    color: rgb(125, 7, 96);
+    text-align: center;
+    font-size: 50;
+}
+a{
+    color:black;
+    font-size: 20px;
+}
+.aum{
+    font-size: 30px;
+    
+}
+.Box1{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+height: 600px;
+width: 1500px;
+padding: 0px;
+box-sizing: border-box;
+background-color:rgb(125, 7, 96);
+border-radius: 10px;
+display: flex;
+}
+.Box1 .ImgBox1{
+   height: 600px;
+    width: 200px;
+    padding-top: 400px;
+    flex: 300px;
+    max-width: 500%;
+    width: 300px;
+}
+.Box1 .Content1{
+    padding-right: 0px;
+    padding-left: 30px;
+    margin: 50px;
+    text-align: left;
+    width: 1000px;
+    padding-left: 0px;
+    }
+    .Box1 .Content1 h1{
+        color: white;
+        font-size: 100px;
+    }
+    .Box1 .Content1 h3{
+        color: rgb(247, 163, 245);
+        font-size: 50px;
+    }
+.navbar{
+    margin: 50px;
+    font-size: 90px;
+    text-align: left;
+}
+table, th, td{
+    border-collapse: collapse;
+    border-color:rgb(125, 7, 96);
+    background-color:rgb(247, 163, 245);
+    color: white;
+    border-width: 6px;
+}
+.tt1{
+    width: 1400px;
+    text-align: center;
+    padding:150px;
+    background-color:rgb(247, 163, 245);
+}
+.tt{
+    width:1200px;
+    height: 350px;
+    text-align: center;
+    font-size: 30;
+    }
+.tt, td, th{
+    background-color:white;
+    color:#000;;
+}
+.F{
+    border-style: solid;
+    border-color: rgb(247, 163, 245);
+    padding: 20px; 
+}
+.F1, th{
+font-size: 30px;
+text-align: center;
+}
+.F1, td{
+    font-size: 25px;
+}
+.F1{
+    border-style: solid;
+    border-width:2px;
+    border-color: rgb(247, 163, 245);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+a{
+    text-align: center;
+    font-size: 15px;
+}
+.tip{
+    font-size: 40;
+    color:rgb(125, 7, 96);
+}
+.Content2, .Content3{
+    font-size: 30;
+}
+.Box4{
+    height:150px;
+    background-color:rgb(247, 163, 245);
+    color:rgb(125, 7, 96);
+    }
+    .Box4 .Content4{
+        font-size: 34px;
+    }
+    .end{
+        color:rgb(125, 7, 96);
+        font-size: 30;
+    }
